@@ -14,10 +14,10 @@ CONTEÚDO
     Terraform Output
     Variáveis
     Terraform Taint
-    Atualizando recursos
+    Atualizando Recursos
     Terraform Modules
     Construindo nosso primeiro módulo
-    Terraform workflow
+    Terraform Workflow
     Entendendo e gerenciando o terraform state
     Entendendo e gerenciando configurações
 
