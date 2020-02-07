@@ -1,6 +1,6 @@
 provider "aws" {
   region  = "us-east-1"
-  shared_credentials_file = "/home/lazarete/.aws/credentials"
+  shared_credentials_file = "~/.aws/credentials"
   version = "~> 2.0"
   profile = "iace"
 }
